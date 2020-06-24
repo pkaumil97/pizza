@@ -1,3 +1,6 @@
-# Project 3
+# Pizza
 
-Web Programming with Python and JavaScript
+Django application
+
+clone the repository and run the server
+
